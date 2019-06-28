@@ -31,3 +31,10 @@ Below is the distribution by hour of day of when deer identified in photos came 
 
 ![alt text](https://github.com/rwmyers46/CNN-species-identification/blob/master/images/exp-hour.png)
 
+Overlaying historic weather data reveals an inverse relationship between rain and feeding patterns. This could possibly be due to lack of grass in the dryer summer months or a hydrophobic ranch hand letting the feeder go empty.
+
+![alt text](https://github.com/rwmyers46/CNN-species-identification/blob/master/images/rain-exp2.png)
+
+Conventional wisdom says animals are more active during full moons; this dataset tells a different story. Activity was highest during the waning gibbous phase.
+
+![alt text](https://github.com/rwmyers46/CNN-species-identification/blob/master/images/lunar2.png)
