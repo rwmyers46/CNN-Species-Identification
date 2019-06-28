@@ -18,3 +18,15 @@ While these cameras are automatic, they are not yet intelligent. When the SD car
 For training imagery, I used Microsoft Cognitive Services’ Bing Images API to download over 5000 photos to AWS S3. AWS Recognition was used to verify image labels, which correctly eliminated about 20% repository. All processing was done with an EC2 m8.large GPU on Ubuntu, also supporting Jupiter Labs running my model, which built on Keras with a Tensor Flow backend. All visuals were produced with Tableau.
 
 ![alt text](https://github.com/rwmyers46/CNN-species-identification/blob/master/images/dl-workstation.jpg)
+
+## Model:
+
+After iterating through some Sequential variants, I settled on a CNN model with VGG-16 and ImageNet as a base. I applied transfer learning by adding 2 dense layers and used 7 degrees of augmentation to compensate for a relatively small dataset to achieve an accuracy of 81%.
+
+## Case Study: "Animalytics"
+
+I applied this model to 8,000 images taken from my personal game cameras taken over all of 3 months - you see the problem? Combining the model's species identification with an image's EXIF data (the information embedded when a photograph is taken) yields time series analytics by species type, which I refer to as "animalytics."
+
+Below is the distribution by hour of day of when deer identified in photos came to a feeder.
+
+
