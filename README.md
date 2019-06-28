@@ -29,4 +29,5 @@ I applied this model to 8,000 images taken from my personal game cameras taken o
 
 Below is the distribution by hour of day of when deer identified in photos came to a feeder.
 
+![alt text](https://github.com/rwmyers46/CNN-species-identification/blob/master/images/exp-hour.png)
 
