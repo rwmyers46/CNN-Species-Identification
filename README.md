@@ -40,3 +40,5 @@ Overlaying historic weather data reveals an inverse relationship between rain an
 Conventional wisdom says animals are more active during full moons; this dataset tells a different story. Activity was highest during the waning gibbous phase.
 
 ![alt text](https://github.com/rwmyers46/CNN-species-identification/blob/master/images/lunar2.png)
+
+![alt text](https://github.com/rwmyers46/CNN-species-identification/blob/master/images/p5-vid-2.mov)
