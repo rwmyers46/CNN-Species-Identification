@@ -5,14 +5,13 @@ Capstone project for the Metis Data Science Bootcamp: Species Identification wit
 
 To build a model with sufficient accuracy to automate processing trail camera images with the capability to push notifications when a target animal is identified.
 
-
 ## What are Trail Cameras?
 
 Trail cameras, also known as game cameras, automatically take photos when motion is detected. They have a variety of applications and 
 their popularity has driven the market size to $60B worldwide - a number expected to double over the next decade. And this popularity is justified. Trail cameras allow us to capture an animal’s personality in a very unique way.
 
 <p align="center">
-<img src="https://github.com/rwmyers46/CNN-species-identification/blob/master/images/game_cams.jpeg" width="400" height="500"/>
+<img src="https://github.com/rwmyers46/CNN-species-identification/blob/master/images/game_cams.jpeg" width="325" height="400"/>
 </p>
 
 While these cameras are automatic, they are not yet intelligent. When the SD card is retrieved, the user is typically met with 1,000s of photographs. These images are often low quality or redundant, creating a labor intensive process to locate animals of interest.
