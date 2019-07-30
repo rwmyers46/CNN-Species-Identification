@@ -10,14 +10,11 @@ To build a model with sufficient accuracy to automate processing trail camera im
 Trail cameras, also known as game cameras, automatically take photos when motion is detected. They have a variety of applications and 
 their popularity has driven the market size to $60B worldwide - a number expected to double over the next decade. 
 
-<div>
-<p align="left">
+<div><p style="float: left;">
 <img src="https://github.com/rwmyers46/CNN-species-identification/blob/master/images/game_cams.jpeg" width="325" height="400"/>
 </p>
-<p>
-While these cameras are automatic, they are not yet intelligent. When the SD card is retrieved from the field, the user is typically met with 1,000s of photographs to review. These images are often low quality or redundant, creating a labor intensive process to locate animals of interest.
-</p>
-</div>
+<p>While these cameras are automatic, they are not yet intelligent. When the SD card is retrieved from the field, the user is typically met with 1,000s of photographs to review. These images are often low quality or redundant, creating a labor intensive process to locate animals of interest.
+</p></div>
   
 ## Machine Learning Workstation:
 
