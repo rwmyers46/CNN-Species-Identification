@@ -11,12 +11,12 @@ Trail cameras, also known as game cameras, automatically take photos when motion
 their popularity has driven the market size to $60B worldwide - a number expected to double over the next decade. 
 
 <div><p style="float: left;">
-<img src="https://github.com/rwmyers46/CNN-species-identification/blob/master/images/game_cams.jpeg" width="275" height="300" border="1px"></p>
+<img src="https://github.com/rwmyers46/CNN-species-identification/blob/master/images/game_cams.jpeg" width="275" height="300" border="1px"></p></div>
 
 <img src = "https://github.com/rwmyers46/CNN-species-identification/blob/master/images/raccoon_stack.jpg" width="275" height="300">
   
 <p>While these cameras are automatic, they are not yet intelligent. When the SD card is retrieved from the field, the user is typically met with 1,000s of photographs to review. These images are often low quality or redundant, creating a labor intensive process to locate animals of interest.
-</p></div>
+</p>
   
 ## Machine Learning Workstation:
 
