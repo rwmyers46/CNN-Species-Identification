@@ -10,7 +10,7 @@ To build a model with sufficient accuracy to automate processing trail camera im
 Trail cameras, also known as game cameras, automatically take photos when motion is detected. They have a variety of applications and 
 their popularity has driven the market size to $60B worldwide - a number expected to double over the next decade. 
 
-<p align="center">
+<p align="left">
 <img src="https://github.com/rwmyers46/CNN-species-identification/blob/master/images/game_cams.jpeg" width="325" height="400"/>
 </p>
 
