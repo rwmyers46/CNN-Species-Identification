@@ -34,7 +34,7 @@ Below is the distribution by hour of day of when deer identified in photos came 
 
 ![alt text](https://github.com/rwmyers46/CNN-species-identification/blob/master/images/exp-hour.png)
 
-Overlaying historic weather data reveals an inverse relationship between rain and feeding patterns. This could possibly be due to lack of grass in the dryer summer months or a hydrophobic ranch hand letting the feeder go empty.
+Overlaying historic weather data reveals an inverse relationship between rain and feeding patterns. This could possibly be due to the lack of alternative options when grass diminishes in the dryer summer months.
 
 ![alt text](https://github.com/rwmyers46/CNN-species-identification/blob/master/images/rain-exp2.png)
 
