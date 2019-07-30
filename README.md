@@ -3,7 +3,7 @@ Capstone project for the Metis Data Science Bootcamp: Species Identification wit
 
 ## Objective:
 
-To build a model with sufficient accuracy to automate processing trail camera images with the capability to push notifications when a target animal is identified.
+To build a model with sufficient accuracy to automate processing trail camera imagery with the capability to push notifications when specific animals are identified.
 
 ## What are Trail Cameras?
 
