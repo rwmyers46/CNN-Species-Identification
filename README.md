@@ -5,6 +5,15 @@ Capstone project for the Metis Data Science Bootcamp: Species Identification wit
 
 To build a model with sufficient accuracy to automate processing trail camera imagery with the capability to push notifications when specific animals are identified.
 
+## Directory:
+
+| File                    | Description                                                  |
+|-------------------------|--------------------------------------------------------------|
+| project-5-model.ipynb   | Convolutional Neural Network Model                           |
+| download-process.ipynb  | Download & Processing with Microsoft Cognitive Services API  |
+| label-rekognition.ipynb | Image Label Verification with AWS Rekognition                |
+| exif-to-dataframe.ipynb | Convert Image EXIF Data to DataFrame                         |
+
 ## What are Trail Cameras?
 
 Trail cameras, also known as game cameras, automatically take photos when motion is detected. They have a variety of applications and 
