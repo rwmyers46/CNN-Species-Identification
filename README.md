@@ -43,11 +43,11 @@ Conventional wisdom says animals are more active during full moons; this dataset
 
 ![alt text](https://github.com/rwmyers46/CNN-species-identification/blob/master/images/lunar2.png)
 
-## Deployed Model: Notification Service
+## Deployed Model: Text Notification
 
-The model was deployed in a live demo demonstrating text notification functionality. This was achieved using the AWS Simple Notification Service (SNS) coupled with the Python SDK Boto3. The image below links to a video demonstating this feature.
+The model was deployed in a live demo demonstrating text notification functionality. This was achieved using the AWS Simple Notification Service (SNS) coupled with the Python SDK Boto3. This feature provides users to receive a notification on their mobile device when the neural network model positively identifies the preselected animal species. The image below links to a video demonstration.
 
 <p align = center>
 <a href="https://github.com/rwmyers46/CNN-Species-Identification/blob/master/images/p5-vid-2.mov" target="_blank"><img src="https://github.com/rwmyers46/CNN-Species-Identification/blob/master/images/deer_majestic.jpg" 
-alt="Texting functionality video" width="350" height="250" border="10" /></a>
+alt="Texting functionality video" width="500" height="350" border="10" /></a>
 <p>
