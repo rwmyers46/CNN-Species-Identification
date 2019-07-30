@@ -14,7 +14,7 @@ their popularity has driven the market size to $60B worldwide - a number expecte
 <img src="https://github.com/rwmyers46/CNN-species-identification/blob/master/images/game_cams.jpeg" width="325" height="400"/>
 </p>
 
-While these cameras are automatic, they are not yet intelligent. When the SD card is retrieved, the user is typically met with 1,000s of photographs. These images are often low quality or redundant, creating a labor intensive process to locate animals of interest.
+While these cameras are automatic, they are not yet intelligent. When the SD card is retrieved from the field, the user is typically met with 1,000s of photographs to review. These images are often low quality or redundant, creating a labor intensive process to locate animals of interest.
 
 ## Machine Learning Workstation:
 
