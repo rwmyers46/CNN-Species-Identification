@@ -28,7 +28,7 @@ After iterating through some Sequential variants, I settled on a CNN model with 
 
 ## Case Study: "Animalytics"
 
-I applied this model to 8,000 images taken from my personal game cameras taken over all of 3 months - you see the problem? Combining the model's species identification with an image's EXIF data (the information embedded when a photograph is taken) yields time series analytics by species type, which I refer to as "animalytics."
+I applied this model to 8,000 images taken from my personal game cameras taken over all of 3 months - see the problem? Combining the model's species identification with an image's EXIF data (the information embedded when a photograph is taken) yields time series analytics by species type, which I refer to as "animalytics."
 
 Below is the distribution by hour of day of when deer identified in photos came to a feeder.
 
