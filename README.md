@@ -12,10 +12,11 @@ their popularity has driven the market size to $60B worldwide - a number expecte
 
 <p align = left>
 <img src="https://github.com/rwmyers46/CNN-species-identification/blob/master/images/game_cams.jpeg" width="275" height="300">
-
-While these cameras are automatic, they are not yet intelligent. When the SD card is retrieved from the field, the user is typically met with 1,000s of photographs to review. These images are often low quality or redundant, creating a labor intensive process to locate animals of interest.
 </p>
-  
+<pre>
+While these cameras are automatic, they are not yet intelligent. When the SD card is retrieved from the field, the user is typically met with 1,000s of photographs to review. These images are often low quality or redundant, creating a labor intensive process to locate animals of interest.
+</pre>
+
 ## Machine Learning Workstation:
 
 Microsoft Cognitive Services’ Bing Images API was used to download over 5,000 training images to AWS S3. AWS Rekognition was used to verify image labels ([see blog post](https://rwmyers46.github.io/verify-labels-rekognition/)), which correctly eliminated 20% of the directory's files. All processing was done with an EC2 m8.large GPU on Ubuntu, which also supported Jupyter Labs running the model, built on Keras with Tensor Flow backend. All visuals were produced with Tableau.
