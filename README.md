@@ -10,12 +10,15 @@ To build a model with sufficient accuracy to automate processing trail camera im
 Trail cameras, also known as game cameras, automatically take photos when motion is detected. They have a variety of applications and 
 their popularity has driven the market size to $60B worldwide - a number expected to double over the next decade. 
 
+<div>
 <p align="left">
 <img src="https://github.com/rwmyers46/CNN-species-identification/blob/master/images/game_cams.jpeg" width="325" height="400"/>
 </p>
-
+<p>
 While these cameras are automatic, they are not yet intelligent. When the SD card is retrieved from the field, the user is typically met with 1,000s of photographs to review. These images are often low quality or redundant, creating a labor intensive process to locate animals of interest.
-
+</p>
+</div>
+  
 ## Machine Learning Workstation:
 
 Microsoft Cognitive Services’ Bing Images API was used to download over 5,000 training images to AWS S3. AWS Rekognition was used to verify image labels ([see blog post](https://rwmyers46.github.io/verify-labels-rekognition/)), which correctly eliminated 20% of the directory's files. All processing was done with an EC2 m8.large GPU on Ubuntu, which also supported Jupyter Labs running the model, built on Keras with Tensor Flow backend. All visuals were produced with Tableau.
