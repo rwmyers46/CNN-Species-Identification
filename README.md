@@ -14,6 +14,8 @@ To build a model with sufficient accuracy to automate processing trail camera im
 | label-rekognition.ipynb | Image Label Verification with AWS Rekognition                |
 | exif-to-dataframe.ipynb | Convert Image EXIF Data to DataFrame                         |
 
+*For Jupyter Notebook files not loading properly with Github, copy the url to https://nbviewer.jupyter.org/.*
+
 ## What are Trail Cameras?
 
 Trail cameras, also known as game cameras, automatically take photos when motion is detected. They have a variety of applications and 
