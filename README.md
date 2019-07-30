@@ -43,5 +43,7 @@ Conventional wisdom says animals are more active during full moons; this dataset
 
 ![alt text](https://github.com/rwmyers46/CNN-species-identification/blob/master/images/lunar2.png)
 
-<a href="https://github.com/rwmyers46/CNN-species-identification/blob/master/images/p5-vid2.mov" target="_blank"><img src="https://github.com/rwmyers46/CNN-species-identification/blob/master/images/lunar2.png" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<p align = center>
+<a href="https://github.com/rwmyers46/CNN-Species-Identification/blob/master/images/p5-vid-2.mov" target="_blank"><img src="https://github.com/rwmyers46/CNN-species-identification/blob/master/images/lunar2.png" 
+alt="Texting functionality video" width="240" height="180" border="10" /></a>
+<p>
