@@ -18,7 +18,7 @@ While these cameras are automatic, they are not yet intelligent. When the SD car
 
 ## Machine Learning Workstation:
 
-Microsoft Cognitive Services’ Bing Images API was used to download over 5,000 training images to AWS S3. AWS Recognition was used to verify image labels ([see blog post](https://rwmyers46.github.io/verify-labels-rekognition/)), which correctly eliminated 20% of the directory's files. All processing was done with an EC2 m8.large GPU on Ubuntu, also supporting Jupiter Labs running my model, which built on Keras with a Tensor Flow backend. All visuals were produced with Tableau.
+Microsoft Cognitive Services’ Bing Images API was used to download over 5,000 training images to AWS S3. AWS Rekognition was used to verify image labels ([see blog post](https://rwmyers46.github.io/verify-labels-rekognition/)), which correctly eliminated 20% of the directory's files. All processing was done with an EC2 m8.large GPU on Ubuntu, also supporting Jupiter Labs running my model, which built on Keras with a Tensor Flow backend. All visuals were produced with Tableau.
 
 ![alt text](https://github.com/rwmyers46/CNN-species-identification/blob/master/images/dl-workstation.jpg)
 
