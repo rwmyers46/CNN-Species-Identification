@@ -9,7 +9,7 @@ To build a model with sufficient accuracy to automate processing trail camera im
 
 | File                    | Description                                                  |
 |-------------------------|--------------------------------------------------------------|
-| project-5-model.ipynb   | Convolutional Neural Network Model                           |
+| cnn-model.ipynb   | Convolutional Neural Network Model                           |
 | download-process.ipynb  | Download & Processing with Microsoft Cognitive Services API  |
 | label-rekognition.ipynb | Image Label Verification with AWS Rekognition                |
 | exif-to-dataframe.ipynb | Convert Image EXIF Data to DataFrame                         |
