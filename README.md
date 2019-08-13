@@ -7,7 +7,7 @@ To build a model with sufficient accuracy to automate processing trail camera im
 
 ## Directory:
 
-| File                    | Description                                                  |
+| Notebooks                    | Description                                                  |
 |-------------------------|--------------------------------------------------------------|
 | cnn-model.ipynb   | Convolutional Neural Network Model                           |
 | download-process.ipynb  | Download & Processing with Microsoft Cognitive Services API  |
